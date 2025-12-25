@@ -1,7 +1,3 @@
-# FILE: run_client.py
-# AUTHOR: Mahmoud Fawzy
-# RESPONSIBILITY: Main Controller & Integration
-
 import tkinter as tk
 from tkinter import simpledialog, messagebox
 import socket
