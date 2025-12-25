@@ -1,7 +1,3 @@
-# FILE: server.py
-# AUTHOR: Adel
-# RESPONSIBILITY: Network Connection & Routing
-
 import socket
 import threading
 
