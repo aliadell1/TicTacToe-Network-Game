@@ -1,7 +1,3 @@
-# FILE: game_engine.py
-# AUTHOR: Mohamed Moustafa
-# RESPONSIBILITY: Game Logic & Rules
-
 class GameEngine:
     def __init__(self):
         self.board = [""] * 9
