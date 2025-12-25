@@ -30,7 +30,7 @@ class MainController:
         else:
             self.setup_network()
 
-    # [CHANGE] Replaced system dialogs with our new ui.create_popup
+    
     def setup_network(self):
         def on_user_entered(name):
             self.username = name
